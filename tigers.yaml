@@ -8,6 +8,10 @@ members:
   - David
   - george
   - tyler
+<<<<<<< HEAD
   - kim
+=======
+  - park
+>>>>>>> conflict
 
 coach: ruth
