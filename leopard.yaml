@@ -7,4 +7,9 @@ members:
   - william
   - david
 
+<<<<<<< HEAD
 coach: nicholas
+=======
+coach: melissa
+>>>>>>> add-coach
+>>>>>>> 41a071b (edit leopard)
